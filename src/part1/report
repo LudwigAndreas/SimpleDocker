@@ -1,0 +1,3 @@
+container size: 1.09kb
+mapped ports: 80/80
+container ip: 0.0.0.0/172.17.0.2

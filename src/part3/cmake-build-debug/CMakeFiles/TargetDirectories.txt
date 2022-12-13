@@ -1,0 +1,3 @@
+/Users/landreas/42Course/SimpleDocker/src/part3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/landreas/42Course/SimpleDocker/src/part3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/landreas/42Course/SimpleDocker/src/part3/cmake-build-debug/CMakeFiles/part3.dir
